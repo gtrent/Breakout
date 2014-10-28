@@ -1,0 +1,16 @@
+#Greenfoot properties
+#Tue Oct 28 14:02:53 BRT 2014
+class.Background.image=1685510.jpg
+class.Paddle.superclass=greenfoot.Actor
+mainWindow.width=713
+class.Background.superclass=greenfoot.World
+package.numDependencies=0
+version=2.5.0
+project.charset=UTF-8
+class.Ball.superclass=greenfoot.Actor
+world.lastInstantiated=Background
+mainWindow.y=40
+mainWindow.x=40
+package.numTargets=0
+class.Brick.superclass=greenfoot.Actor
+mainWindow.height=357
